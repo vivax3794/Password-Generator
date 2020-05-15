@@ -9,8 +9,9 @@ That is not why I created this. This is just a simple project that I created to 
 See the LICENSE for more details.
 
 <h3> How to run </h3>
-You need to have `random-password-generator` install on your system.
+You need to have "random-password-generator" installed on your system.
 If you dont have it, it can be installed with:
+
 `pip install random-password-generator`
 
 Then just run the `main.py` and input your options.

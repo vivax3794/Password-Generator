@@ -1,5 +1,7 @@
 <h1>Password Generator</h1>
 
+![shields.io](https://img.shields.io/badge/Open-Source-blue) ![shields.io](https://img.shields.io/badge/Made%20With-Python-brightgreen) ![shields.io](https://img.shields.io/badge/License-MIT-green)
+
 <h3>This is a password generator created by @ManavRaja.</h3>
 
 

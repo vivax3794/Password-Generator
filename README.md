@@ -7,3 +7,10 @@ This is just a simple project made by me to put my Python skills to use. This is
 That is not why I created this. This is just a simple project that I created to put my Python skills into use & give inspiration for other people. Please feel free to help contribute to this project by opening bug reports, suggestions, & pull requests. Thanks for reading this & have fun!
 
 See the LICENSE for more details.
+
+<h3> How to run </h3>
+You need to have `random-password-generator` install on your system.
+If you dont have it, it can be installed with:
+`pip install random-password-generator`
+
+Then just run the `main.py` and input your options.
